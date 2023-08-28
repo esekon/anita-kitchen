@@ -188,3 +188,24 @@
       
   
   }
+  .ff-type{
+    margin: 0px;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .ff-container{
+    
+    padding-bottom: 20px 0px;
+    background-color: white;
+    box-sizing: border-box;
+    height: auto;
+  }
+  .ff-items-list {
+    color: #F15A29;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+  }
