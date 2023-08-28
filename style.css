@@ -55,3 +55,13 @@
     
   }
   
+  body{
+    background-color: #fff;
+    max-width: 1300px;
+    max-height: 100%;
+    margin: 0 auto;
+    font-size: 22px ;
+    margin-top: 20px;
+    margin-bottom: -30px;
+  
+  }
