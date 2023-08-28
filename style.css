@@ -354,3 +354,30 @@
     font-family: 'Roboto', sans-serif;
     
   }
+  
+  .footer{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 0px; 
+    color: white;
+  }
+  #copyright{
+    font-size: 15px;
+  }
+  #bottom-logo{
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    
+  }
+  #bottom-logo h1{
+    margin-left: 20px;
+  
+  }
+  .footer p{
+    margin-top: -2px;
+    margin-bottom: 40px;
+    font-weight: 300;
+    font-size: 30px;
+  }
+  
