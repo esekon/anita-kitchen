@@ -333,3 +333,24 @@
     font-weight: 400;
     font-size: 20px;
   }
+  /* Footer section */
+  #footer-textbox{
+    height:50px ;
+    border: none;
+    margin-top: 5px;
+    margin: 20px;
+    opacity: 0.5;       /*makes inputfield see through*/
+    background-color: rgb(88, 87, 87);
+    width: 410px;
+    border-radius: 3px;
+    
+  }
+  ::placeholder{
+    color: white;
+    opacity: 1;
+    padding-left: 10px;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+  }
