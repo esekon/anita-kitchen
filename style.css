@@ -96,3 +96,16 @@
     
     
   }
+  #breakfast{
+    background-image: url('./img/foodtop/breakfast.jpg');
+  }
+  #lunch{
+    background-image: url('./img/foodtop/lunch.jpg');
+    background-color: rgba(231, 228, 228, 0.79); 
+    /*adds overlay text on bakground */ 
+    background-blend-mode: overlay;                       
+  }
+  #dinner{
+    background-image: url('./img/foodtop/dinner.jpg');
+  }
+  
