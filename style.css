@@ -167,3 +167,24 @@
   
     
   }  
+  #imgs2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border: 15px solid whitesmoke;
+    border-radius: 2px;
+    box-shadow: 0px 0px 6px grey;
+    overflow: hidden;
+  }
+  .ff-items{
+    background-image: url('./img/backgrounds/foodsBg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(160, 156, 156, 0.79); 
+    background-blend-mode: overlay; 
+    
+      
+  
+  }
