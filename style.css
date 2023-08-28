@@ -281,3 +281,11 @@
     padding: 5px;
     text-align: center;
   }
+  .right {
+    transform: rotate(-45deg);
+    float: right;
+  }
+  .left {
+    transform: rotate(135deg);
+    float: left;
+  }
