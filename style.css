@@ -289,3 +289,25 @@
     transform: rotate(135deg);
     float: left;
   }
+  .client-container{
+    justify-content: center;
+    margin: 0px; 
+    align-items: center;
+    display:flex;
+       
+  }
+  
+  
+  #about-1{
+    flex: 2;
+    margin-left: 40px;
+    font-size: 16.5px;
+    text-align: center;
+  }
+ 
+  #client-review  h3{
+    color: #F15A29;
+  } 
+  #about-1 h3{
+    color: #F15A29;
+  }
