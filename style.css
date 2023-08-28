@@ -229,3 +229,14 @@
    
     height: 50px;
   }
+  #viewgallery{
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: #F15A29;
+    font-weight: 600;
+    border-color: #F15A29;
+    border-radius: 3px;
+  }
+   
