@@ -34,3 +34,24 @@
   }
   
   
+  .offers {
+    display: flex;
+    flex-direction: row;
+    height: 170px;  
+    color: white;
+    font-style: italic;
+  }
+  .logo-container{
+    background-image: url('./img/backgrounds/landing.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    font-family:serif;
+    
+  }
+  
