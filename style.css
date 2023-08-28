@@ -311,3 +311,25 @@
   #about-1 h3{
     color: #F15A29;
   }
+  /* Contact */ 
+  .ff-delivery{
+    background-image: url('./img/backgrounds/subscribe.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    padding: 40px;
+    color: whitesmoke;
+  }
+  #Subscribe{
+    background-color: #F15A29;
+    width: 150px;
+    height:50px ;
+    border:none;
+    color: whitesmoke;
+    border-radius: 3px;
+    font-weight: 400;
+    font-size: 20px;
+  }
