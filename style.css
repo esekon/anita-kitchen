@@ -265,3 +265,8 @@
     font-size: 16.5px;
     text-align: center;
   }
+  #client-review{
+    flex: 3;
+    margin-right: 40px;
+    text-align: center;
+  }
