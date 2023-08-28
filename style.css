@@ -144,3 +144,26 @@
     padding: 30px;
   }
   
+  .main-drinks{
+    display: flex;                        
+    background-color: rgb(253, 252, 252);
+  }
+  #md-text{
+    float: right;
+    width: 50%;
+    padding: 20px;
+    padding-right: 50px;
+    margin-left: 10px;
+    padding-right: 20px;
+    text-align: right;
+    font-size: 18px;  
+  }
+  #d_image{
+    width: 50%;
+    box-sizing: border-box;
+    float: right;
+    padding: 20px;
+    padding-right: 50px;
+  
+    
+  }  
